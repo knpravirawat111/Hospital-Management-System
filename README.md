@@ -30,7 +30,7 @@ This is a simple console-based Java application that simulates a hospital manage
 
    Example:
    ```
-   Enter doctor's name: Dr. Smith
+   Enter doctor's name: Dr. Rajiv
    Enter doctor's specialization: Cardiology
    Doctor added successfully.
    ```
@@ -41,9 +41,9 @@ This is a simple console-based Java application that simulates a hospital manage
 
    Example:
    ```
-   Enter patient's name: John Doe
+   Enter patient's name: Mahesh
    Enter patient's age: 30
-   Enter patient's contact number: 123-456-7890
+   Enter patient's contact number: 9856893456
    Patient added successfully.
    ```
 
@@ -54,10 +54,10 @@ This is a simple console-based Java application that simulates a hospital manage
    Example:
    ```
    Select a patient:
-   1. John Doe
+   1. Mahesh
 
    Select a doctor:
-   1. Dr. Smith
+   1. Dr. Rajiv
 
    Doctor assigned to patient successfully.
    ```
